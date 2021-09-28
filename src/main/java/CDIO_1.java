@@ -11,7 +11,7 @@ public class CDIO_1 {
         int totalsum2 = 0;
         p1die1 = new Dices();
         p1die2 = new Dices();
-
+// hej guys :)
 
         String player1;
         String player2;
