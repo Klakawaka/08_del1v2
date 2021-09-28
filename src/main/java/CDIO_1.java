@@ -12,7 +12,7 @@ public class CDIO_1 {
         p1die1 = new Dices();
         p1die2 = new Dices();
 // hej guys :)
-
+// hej Ahmad
         String player1;
         String player2;
         int choice;
