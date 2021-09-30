@@ -9,8 +9,11 @@
         <module name="08_del1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="08_del1" target="16" />
+    <bytecodeTargetLevel target="8">
+      <module name="08_del1" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>

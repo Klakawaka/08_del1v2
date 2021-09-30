@@ -17,7 +17,7 @@ public class test {
             System.out.println("Die One: " + die1 + ", Die Two: " + die2);
 
             if ( die1Facevalue == die2Facevalue){
-                t = x+1;
+                t = t+1;
 
             }
         }
