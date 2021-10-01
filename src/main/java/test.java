@@ -2,10 +2,6 @@ import java.util.Scanner;
 public class test {
     public static void main(String[] args) {
         Dices die1, die2;
-        int sum;
-
-
-
         die1 = new Dices();
         die2 = new Dices();
         int x = 0;
